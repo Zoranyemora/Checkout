@@ -13,7 +13,7 @@ In order to build from the source code, you must have the following set up in yo
 One of the simplest ways to install Node is using [NVM](https://github.com/nvm-sh/nvm#installation-and-update). You can follow their instructions to set up your environment if it is not already set up.
 
 ## Development
-
+dd
 Once you have cloned the repository and set up your environment, you can start developing with it.
 
 First, you have to pull in the dependencies required for the application.
